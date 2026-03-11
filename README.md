@@ -1,0 +1,1 @@
+# KrakenPaperTrading_tool2.0
